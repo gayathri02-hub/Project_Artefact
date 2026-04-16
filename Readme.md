@@ -6,7 +6,7 @@
 **Year:** 2026  
 
 ## Project Overview
-This repository contains the LaTeX source code and the offline machine learning pipeline (Jupyter Notebook) for my MSc Research Project. 
+This repository contains the source code and the offline machine learning pipeline (Jupyter Notebook) for my MSc Research Project. 
 
 The research investigates the deployment of lightweight machine learning models for real-time botnet detection directly on resource-constrained Internet of Things (IoT) edge devices. The study proposes a dual-algorithm architecture combining a supervised **Random Forest** classifier with an unsupervised **One-Class SVM** safety net, augmented by **CTGAN** synthetic data generation to handle class imbalance.
 
