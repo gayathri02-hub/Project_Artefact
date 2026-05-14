@@ -1,8 +1,8 @@
 # Evaluating Lightweight Machine Learning Models for Intrusion Detection in IoT Edge Environments
 
-**Author:** Abhishek Sharma  
+**Author:** Gayathri chandana Gunimini
 **Institution:** National College of Ireland (NCI)  
-**Programme:** MSc in Cybersecurity  
+**Programme:** MSc in Cloud Computing
 **Year:** 2026  
 
 ## Project Overview
